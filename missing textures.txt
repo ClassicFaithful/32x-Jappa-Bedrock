@@ -1,0 +1,26 @@
+Credit to NeraWoowty for the missing textures tool:
+https://nerawoowty.github.io/
+
+If you've made any of these textures already and think they are good tell us on our discord at https://discord.gg/KSEhCVtg4J
+
+------------------
+
+Missing: 15 out of 2015 ~ 99.26% done
+
+------------------
+
+entity/goat/goat.png
+entity/hoglin/hoglin.png
+entity/hoglin/zoglin.png
+entity/illager/ravager.png
+entity/piglin/piglin.png
+entity/piglin/piglin_brute.png
+entity/strider/strider.png
+entity/strider/strider_cold.png
+entity/wandering_trader.png
+entity/zombie_villager/type/desert.png
+entity/zombie_villager/type/jungle.png
+entity/zombie_villager/type/savanna.png
+entity/zombie_villager/type/snow.png
+entity/zombie_villager/type/swamp.png
+entity/zombie_villager/type/taiga.png
