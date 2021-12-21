@@ -1,0 +1,13 @@
+{
+  "namespace": "auto_save_info",
+
+  "auto_save_animation": {
+    "frame_count": 19,
+    "frame_step": 36,
+    "fps": 19
+  },
+  "auto_save": {
+    "size": [ 18, 42 ],
+    "uv_size": [ 36, 60 ]
+  }
+}

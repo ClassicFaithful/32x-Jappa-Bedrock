@@ -1,0 +1,25 @@
+{
+  "namespace": "hud",
+
+  "full_progress_bar": {
+    "texture": "textures/ui/xp_full",
+	  "uv_size": [ 364, 10 ]
+  },
+  "empty_progress_bar": {
+    "texture": "textures/ui/xp_empty",
+	"uv_size": [ 364, 10 ]
+  },
+  "progress_bar_nub": {
+    "texture": "textures/ui/xp_nub"
+  },
+  "auto_save_animation": {
+    "frame_count": 19,
+    "frame_step": 36,
+    "fps": 19
+  },
+  "auto_save": {
+    "offset": [ -15, 15 ],
+    "size": [ 18, 42 ],
+    "uv_size": [ 36, 60 ]
+  }
+}
