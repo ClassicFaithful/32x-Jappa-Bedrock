@@ -2,10 +2,10 @@
   "format_version": 2,
 
   "header": {
-    "name": "§aEM32D Pack",
-    "description": "Vattic's Faithful Vision!\u00a7r\n\u00a7bAuthors\u00a78 >\u00a7e Evorp, FHLX, & Vattic",
+    "name": "§aClassic Faithful 32x",
+    "description": "Vattic's Classic Faithful Today §8By Evorp and many others",
     "uuid": "0575c51f-a5da-4b7f-9961-ffda2098761e",
-    "version": [ 1, 18, 0 ],
+    "version": [ 1, 18, 1 ],
     "min_engine_version": [ 1, 13, 0 ]
   },
   "modules": [
@@ -13,7 +13,7 @@
       "description": "resourcePack.vanilla.description",
       "type": "resources",
       "uuid": "53644fac-a276-42e5-843f-a3c6f169a9ab",
-      "version": [ 1, 18, 0 ]
+      "version": [ 1, 18, 1 ]
     }
   ]
 }
