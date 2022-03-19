@@ -1,3 +1,0 @@
-ALL CREDITS ARE AT https://github.com/ClassicFaithful/32x-Jappa/blob/1.18.1/credits.txt
-
-THIS IS JUST DONE SO I DON'T HAVE TO UPDATE A BILLION FILES WHEN UPDATING CREDITS
