@@ -3,12 +3,7 @@ A double resolution texture pack that continues Vattic’s classic faithful styl
 
 <img src="https://cdn.discordapp.com/attachments/814212967297318973/925833977477087332/CF_Banner_Blurred.png" align="center" height="256px">
 
-# How to actually get to the pack
-Click on the "bedrock-latest" branch:
-
-<img src="https://cdn.discordapp.com/attachments/814198781301096449/956716649841582150/Screen_Shot_2022-03-24_at_5.50.18_PM.png?size=4096" align="center" height="256px">
-
-# How to Download (After going to "bedrock-latest")
+# How to Download File Directly
 
 <img src="https://cdn.discordapp.com/attachments/852994775552884746/923069799116996678/unknown.png" align="center" height="256px">
 <img src="https://cdn.discordapp.com/attachments/852994775552884746/923069799381225492/unknown.png" align="center" height="256px">
