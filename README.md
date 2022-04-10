@@ -1,7 +1,7 @@
 # Classic Faithful 32x Jappa - Bedrock
 A double resolution texture pack that continues Vattic’s classic faithful style today, now on Bedrock Edition.
 
-<img src="https://cdn.discordapp.com/attachments/814212967297318973/925833977477087332/CF_Banner_Blurred.png" align="center" height="256px">
+<img src="https://github.com/Faithful-Resource-Pack/NewBr/blob/master/social%20media/banners/pmc/cf32_banner.png?raw=true" align="center" height="384px">
 
 # How to Download File Directly
 
