@@ -1,0 +1,24 @@
+name: Create Pack
+on:
+  push:
+    branches-ignore:
+      - master
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Create Pack
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PORT: ${{ secrets.PORT }}
+        KEY: ${{ secrets.SSH }}
+        script: |
+          cd "./packs/Classic-Faithful-32x-Jappa-Bedrock"
+          git pull
+          zip -r "Classic Faithful 32x Jappa - 1.19.mcpack" . -x "*.git*" -x "*.github*" -x ".gitignore" -x "README.md"
+          mv "Classic Faithful 32x Jappa - 1.19.mcpack" "/var/www/html/database.faithfulpack.net/packs/Classic-32x-Bedrock/Jappa"

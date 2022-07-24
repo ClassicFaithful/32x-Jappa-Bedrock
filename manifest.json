@@ -2,10 +2,10 @@
   "format_version": 2,
 
   "header": {
-    "name": "§aClassic Faithful 32x",
+    "name": "§aClassic Faithful 32x Jappa",
     "description": "Vattic's Classic Faithful Today §8By Evorp and many others",
     "uuid": "0575c51f-a5da-4b7f-9961-ffda2098761e",
-    "version": [ 1, 18, 1 ],
+    "version": [ 1, 19, 1 ],
     "min_engine_version": [ 1, 13, 0 ]
   },
   "modules": [
@@ -13,7 +13,7 @@
       "description": "resourcePack.vanilla.description",
       "type": "resources",
       "uuid": "53644fac-a276-42e5-843f-a3c6f169a9ab",
-      "version": [ 1, 18, 1 ]
+      "version": [ 1, 19, 1 ]
     }
   ]
 }
