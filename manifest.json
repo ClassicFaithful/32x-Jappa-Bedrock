@@ -1,36 +1,18 @@
 {
-  "format_version": 2,
-  "header": {
-    "description": "Vattic's Classic Faithful Today \n §8By Evorp and many otheres",
-    "min_engine_version": [
-      1,
-      17,
-      0
-    ],
-    "name": "Classic Faithful 32x Jappa - Bedrock",
-    "uuid": "91ea0115-c90e-4c8a-8d03-1284fbcd50c1",
-    "version": [
-      0,
-      11,
-      0
+    "format_version": 2,
+    "header": {
+        "description": "Vattic's Classic Faithful Today \n §8By Evorp and many others",
+        "name": "Classic Faithful 32x Jappa - Bedrock",
+        "uuid": "91ea0115-c90e-4c8a-8d03-1284fbcd50c1",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Vattic's Classic Faithful Today \n §8By Evorp and many others",
+            "type": "resources",
+            "uuid": "7cbdbf63-0e40-437c-aeab-a777f96c0d28",
+            "version": [0, 0, 1]
+        }
     ]
-  },
-  "metadata": {
-      "authors": [ "Evorp and many others" ],
-      "license": "https://github.com/classicfaithful/32x-jappa-bedrock/blob/bedrock-latest/license.txt",
-      "url": "https://faithfulpack.net/"
-},
-  "modules": [
-    {
-      "description": "Vattic's Classic Faithful Today",
-      "type": "resources",
-      "uuid": "7cbdbf63-0e40-437c-aeab-a777f96c0d28 
-",
-      "version": [
-        0,
-        0,
-        1
-      ]
-    }
-  ]
 }
