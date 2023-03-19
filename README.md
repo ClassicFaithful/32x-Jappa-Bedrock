@@ -1,12 +1,15 @@
-# Classic Faithful 32x Jappa - Bedrock
-A double resolution texture pack that continues Vattic’s classic faithful style today, now on Bedrock Edition.
+<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/cf32_logo.png?raw=true" alt="Classic Faithful 32x Jappa" align="right" height="256px">
+<div align="center">
+  <h1>Classic Faithful 32x Jappa</h1>
+  <h3>A double resolution texture pack that continues Vattic’s classic faithful style today.</h3>
+  <h5><i>Official Bedrock Edition repository</i></h5>
 
-<img src="https://database.faithfulpack.net/images/branding/social%20media/banners/github/cf32_banner.png" align="center" height="384px">
+![RepoSize](https://img.shields.io/github/repo-size/ClassicFaithful/32x-Jappa-Bedrock)
+![Issues](https://img.shields.io/github/issues/ClassicFaithful/32x-Jappa-Bedrock)
+![PullRequests](https://img.shields.io/github/issues-pr/ClassicFaithful/32x-Jappa-Bedrock)
+</div>
 
-# How to Download .zip File
+---
 
-<img src="https://user-images.githubusercontent.com/75297863/163903656-b32b9686-c147-469b-bb3f-808ab6d6bc36.png" align="center" height="384px">
-
-## If the .zip file does not show up when put in your resource pack folder:
-
-Unzip the file using any program like Winrar, 7zip, or Archive Utility. Sometimes GitHub has a bug where the folder that is created when decompressed has a second folder within it, breaking the structure. To solve this, simply drag the second folder inside the decompressed one into your resourcepacks folder. Sorry for the inconvenience.
+## How to download:
+All Java and Bedrock Edition versions can be downloaded on [our website](https://faithfulpack.net/classicfaithful/32x-jappa).
