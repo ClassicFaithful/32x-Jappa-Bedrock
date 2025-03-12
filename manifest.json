@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Vattic's Classic Faithful Today \n §8By Evorp and many others",
+        "description": "Vattic's Classic Faithful Today \n§8By Evorp and many others",
         "name": "Classic Faithful 32x Jappa - Bedrock",
         "uuid": "91ea0115-c90e-4c8a-8d03-1284fbcd50c1",
         "version": [0, 0, 1],
@@ -9,7 +9,7 @@
     },
     "modules": [
         {
-            "description": "Vattic's Classic Faithful Today \n §8By Evorp and many others",
+            "description": "Vattic's Classic Faithful Today \n§8By Evorp and many others",
             "type": "resources",
             "uuid": "7cbdbf63-0e40-437c-aeab-a777f96c0d28",
             "version": [0, 0, 1]
